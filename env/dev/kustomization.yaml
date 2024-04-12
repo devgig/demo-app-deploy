@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/devgig/demo-app
-  newTag: d5d95a366a054a6e55d0fee92e959bb39082a235
+  newTag: 5ff4aa428115ee4715edad831496b7e95a1a98c0

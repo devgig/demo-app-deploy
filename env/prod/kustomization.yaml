@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/devgig/demo-app
+  newTag: 5ff4aa428115ee4715edad831496b7e95a1a98c0
